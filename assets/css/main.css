@@ -1,0 +1,17 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Shrikhand";
+  line-height: 1.4em;
+}
+
+p,
+span {
+  font-family: "Poppins";
+  line-height: 1.8em;
+}
+
+/*# sourceMappingURL=main.css.map */

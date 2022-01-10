@@ -1,0 +1,10 @@
+{
+  "name": "algert-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "watch": "sass assets/scss/main.scss assets/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
